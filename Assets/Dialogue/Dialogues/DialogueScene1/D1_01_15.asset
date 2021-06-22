@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_15
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 4325b0e77b8c56b459ec6129096b97c0, type: 2}
+  dialogue:
+  - actor: {fileID: 11400000, guid: 6f03903b3c7334a47964c9f928ed0a27, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Always question any source other than the direct truth. Legends and stories
+      may be warped with retellings and time."'
+  - actor: {fileID: 11400000, guid: 6f03903b3c7334a47964c9f928ed0a27, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Well, admittedly, I am orginally a man, I just decided to assume the
+      beauty of my ''Mona Lisa'' for a change."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Now John, let me return to our previous conversation - calamities."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Isaak presses a button on his desk. The room darkens and an image is displayed
+      on the wall.
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 21300000, guid: fbcd6506d1cefa049a396b5cb01b467e, type: 3}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"A map of the world?"'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Not just any map. This is several thousand maps of the world throughout
+      history superimposed on top of one another."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Through the use of calculations, we have predicted that humanity will
+      go extinct in a year."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...What?"'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"See those markings? We call them singularities."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Those singularities appeared recently in human history, spots where history
+      has been altered."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"In response, we''ve designed a system to tackle these singularities head
+      on."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"We believe that, through the ''butterfly effect'', the changes brought
+      about by these singularities leads to our extinction."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Admittedly, it''s still only an hasty experiment, but the cost of not
+      performing it is much too great."'

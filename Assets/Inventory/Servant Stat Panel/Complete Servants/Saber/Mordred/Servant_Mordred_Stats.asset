@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21fc9b288f8adc44f9f1fa3080ee5a54, type: 3}
+  m_Name: Servant_Mordred_Stats
+  m_EditorClassIdentifier: 
+  parameters:
+  - {fileID: 11400000, guid: 351bcd3c7c6270d429eea926357a3ba1, type: 2}
+  - {fileID: 11400000, guid: f0398fdb20937434a8189f15322542b9, type: 2}
+  - {fileID: 11400000, guid: d7bd44031defcd149a173788ec565377, type: 2}
+  - {fileID: 11400000, guid: 684d0afa58409184791621fa8f87cf89, type: 2}
+  - {fileID: 11400000, guid: f117852b351f6d541805178eb3bdcf64, type: 2}
+  - {fileID: 11400000, guid: d465ede290f33a5479c05d1a5bcb334d, type: 2}
+  integers: 0400000005000000040000000400000002000000050000000200000002000000

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eac4cd5ce18052f43845ef0c8135db21
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onEquip: {instanceID: 0}
+  - onUnequip: {instanceID: 0}
+  - roundStart: {instanceID: 0}
+  - roundEnd: {instanceID: 0}
+  - turnStart: {instanceID: 0}
+  - turnEnd: {instanceID: 0}
+  - onAttackSource: {instanceID: 0}
+  - onAttackTarget: {instanceID: 0}
+  - onHitSource: {instanceID: 0}
+  - onHitTarget: {instanceID: 0}
+  - onDamageSource: {fileID: 11400000, guid: dcdb38f973c7d77438716108bcc195e4, type: 2}
+  - onDamageTarget: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

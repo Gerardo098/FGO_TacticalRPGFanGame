@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D_02_05
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 0a21e337eeee9a849b4039e6bc54ccd3, type: 2}
+  dialogue:
+  - actor: {fileID: 11400000, guid: e463ee10e63eb3d4c8bc7c0a4e25646e, type: 2}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Kiyohime Densetsu, or the Legend of Kiyohime, was an 11th century story
+      found in collections of tales from that era.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: It featured a young woman, named Kiyohime, who fell in love with a Buddhist
+      monk, Anchin.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Anchin was on a pilgrimage to a temple, and sought a night's stay at Kiyohime's
+      lodgings. Kiyohime immediately fell in love.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: That night, Kiyohime attempted to court the monk, but was rejected. However,
+      Anchin promised Kiyohime that, on his way back, he would come back for her.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Anchin went to the temple as planned, but on the way back, decided to take
+      an alternate road, avoiding Kiyohime.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Later, Kiyohime realized she had been abandoned, and suffered from frustration
+      and grief.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: ...But she did not give up. She left her home seeking the man she loved.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: As she traveled, she changed - her form became that of a great, Eastern
+      serpent.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: "Anchin, realizing Kiyohime was on the chase, arrived at the D\u014Dj\u014D-ji
+      temple. Begging for help, the monks at the temple hid Anchin underneath the
+      temple bell."
+  - actor: {fileID: 0}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Kiyohime arrived at the temple, and enveloped herself around the bell.
+  - actor: {fileID: 0}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Unable to constrict the iron bell, she bathed it in a torrent of flame
+      from her breath.
+  - actor: {fileID: 0}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: And thus, Anchin was cooked alive.

@@ -1,0 +1,308 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D_02_02
+  m_EditorClassIdentifier: 
+  optionText: 
+  sequence:
+  - {fileID: 11400000, guid: db923c4f1b2453c40b1688e0a0217139, type: 2}
+  dialogue:
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You take a deep breath as you relax your limbs, letting your body rest.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You let the wind cool you off as it whistles through the tree leaves.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: This wouldn't be a bad place to relax, you think, had it not been for the
+      zombie creatures.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: ...Thinking of the enemies you just fought, you stand up and make your
+      way to one of the undead warriors that attacked.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You didn't notice it during your time speaking with Romani, but all the
+      undead appear to have dried out incredibly fast.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Something inside one of the warriors' suit of armour catches your eye.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: ' You lean over the corpse and spot a thin piece of crimson paper plastered
+      to the back of the body armour.'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Curious, you reach in. The paper peels off like a sticker, though the underside
+      has no adhesive to it whatsoever.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The backside of the paper, as crimson as the other, has a human eye drawn
+      on it with black and white powders, similar to ash in consistency.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You also note, the back of the armour where the armour just was appears
+      to have been singed black by a flame.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Suddenly, you hear twigs break and the leaves behind you rustle.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You hastily put the crimson paper in your pocket and turn around, materializing
+      your sword in the process.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The rustling of leaves continues, before you hear a young woman's disgruntled
+      moans.
+  - actor: {fileID: 11400000, guid: 041d7482b2b400a4986c746215124d03, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...Ow! Why''d I have to cut through the forest?..."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: A young woman appears from the underbush. She appears to be around your
+      age, about a couple inches shorter than you, wearing a white and teal kimono
+      with golden details.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: She has long, aquamarine-coloured hair and golden eyes. However, her most
+      distinguishing feature are the pair of horns on the sides of her head.
+  - actor: {fileID: 11400000, guid: f2146d0d405016848aec264e10832182, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...I wish I could burn a path, but then they''d fin-"'
+  - actor: {fileID: 0}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The woman stops mid-complaint the moment she notices you.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Her eyes dart from you, to the weapon in your hands, to the undead corpses
+      surrounding you.
+  - actor: {fileID: 11400000, guid: f2146d0d405016848aec264e10832182, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...Did you...?"'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Fight them? Yes, and I hope you''re not reinforcements."'
+  - actor: {fileID: 11400000, guid: f2146d0d405016848aec264e10832182, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '". . ."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The woman once again looks at you, and begins slowly walking towards you.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: "You tighten your grip. \nSomething about this girl feels different than
+      the zombies you just fought."
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The closer the woman gets, the faster her pace becomes.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Dread creeps in as she closes in on you; your eyes don't see anything,
+      but your primitive senses are telling you this is a fight or flight situation.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: 'Finally, she''s less than a meter from you.
+
+      Your hands ache from
+      how tight you''re holding your sword.
+
+      She opens her arms...'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: ...And quickly envelops you with a snug hug.
+  - actor: {fileID: 11400000, guid: f2146d0d405016848aec264e10832182, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Anchin-sama!"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: ...Who?

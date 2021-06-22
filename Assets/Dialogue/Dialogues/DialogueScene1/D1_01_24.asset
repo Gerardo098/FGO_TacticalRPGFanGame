@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_24
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 5e2c97ef3bf081340a09996a414a1cfb, type: 2}
+  dialogue:
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 1
+    text: You don't hear Olga Marie finish the count down as the world around you
+      is plunged in darkness.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You open your eyes and look around. Total darkness, and yet, you can see
+      yourself as clearly as if you were in the sun.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You take your chances, and take a step.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Despite there being no floor, you feel a very smooth surface beneath your
+      feet, like you're walking on glass.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You walk for a bit, and see that the walls of the room have also disappeared.
+      It's just you in this empty abyss.
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Suddenly, out of nowhere, a single ball of flame appears close to you.
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The fire floats to about your chest level, and exudes a comfortable warmth.
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: 'With nothing else to do, you approach the flame.
+
+      When suddenly,
+      a voice appears to come from it.'
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Who...?"'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Uh... You can call me John."'
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...Do you... come to... pity me...? "'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Pity you? What do you mean?"'
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...The most pitiful knight there ever was..."'
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...A disgusting stain... on a beautiful legend..."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"You said you were a knight, who are you?"'
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...I''ve commited... the worst sin... against my land... my own people...
+      all for a selfish desire..."'
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...Why did you come... to me..?"'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I was told to look for a powerful hero. If you are who I was told to
+      look for, then I am here for you."'
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...A hero... I am naught... but a villain..."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"And I am just a normal guy thrown into an absurd situation. But I will
+      make the most of it."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You hold your hand out to the flame.
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I''ve been told to save the world. And who better to help me than a knight
+      in shining armour?"'
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The tongue of flame goes silent. You have the feeling that it is thinking.
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...Could I... be a knight... as majestic as my father...?"'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"You won''t know until you try."'
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...Then... Allow me to ask... Are you-?"'

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39a009b0ec5253247b2d8051eb508e99, type: 3}
+  m_Name: KiyohimeGear
+  m_EditorClassIdentifier: 
+  mainWeapon: {fileID: 0}
+  offWeapon: {fileID: 0}
+  armour: {fileID: 0}
+  abilities:
+  - {fileID: 11400000, guid: 6dcf06e9c98949a4391aa798a1ad461f, type: 2}
+  - {fileID: 11400000, guid: f2aa21026da8a0e49a450982ac1f9d16, type: 2}
+  - {fileID: 11400000, guid: cea45845aa8d3374cb329b1cc2c67dcb, type: 2}
+  passives:
+  - {fileID: 11400000, guid: 01e44cb788c15b04399babc5d71681f8, type: 2}
+  spells:
+  - {fileID: 11400000, guid: e13aa22d6240655449d2d24404a1bfe0, type: 2}
+  - {fileID: 11400000, guid: d528a9e8b6228f344b8fb8cb9e9ec072, type: 2}
+  NoblePhantasms: []

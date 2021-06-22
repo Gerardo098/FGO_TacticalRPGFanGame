@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe766b985c19e474681c037976451240, type: 3}
+  m_Name: Status_Shapeshift
+  m_EditorClassIdentifier: 
+  effectName: Shapeshift
+  targetType: 2
+  tags: []
+  OriginalRank: 0
+  triggers: []
+  onEquip: {fileID: 11400000, guid: 7bd6618f1b5b285469b8beefc6762868, type: 2}
+  onUnequip: {fileID: 11400000, guid: 4c220192ead7de74e969b260779b6aa5, type: 2}
+  roundStart: {fileID: 0}
+  roundEnd: {fileID: 0}
+  turnStart: {fileID: 0}
+  turnEnd: {fileID: 0}
+  onAttackSource: {fileID: 0}
+  onAttackTarget: {fileID: 0}
+  onHitSource: {fileID: 0}
+  onHitTarget: {fileID: 0}
+  onDamageSource: {fileID: 0}
+  onDamageTarget: {fileID: 0}

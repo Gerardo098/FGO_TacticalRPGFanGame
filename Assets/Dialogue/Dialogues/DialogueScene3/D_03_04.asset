@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D_03_04
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: d6685827ef475334e97550156f64944f, type: 2}
+  dialogue:
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: He was heavily built with large muscles. He wore little armour, save for
+      his left arm, in which he carried an enormous, brutal axe.
+  - actor: {fileID: 11400000, guid: 02f34c09b33b39840b3ea188d939f599, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Thanks for holding the fort, my friend. Reinforcements have arrived."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: From behind you, you hear marching feet.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: An entire batallion of human soldiers, all waving flags featuring the chrysanthemum
+      emblem, appeared through the forest.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The golden-haired man turned ot the woman in black.
+  - actor: {fileID: 11400000, guid: 02f34c09b33b39840b3ea188d939f599, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"We meet again, oh great ''demon king''! But this time, we''ve caught
+      you in the act!"'
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The woman spits.
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"How silly of me to forget you imperial rats travel in packs."'
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"But no matter. Our forces have pushed well past imperial borders. Our
+      objective here is complete."'
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The woman in black looks you straight in the eye.

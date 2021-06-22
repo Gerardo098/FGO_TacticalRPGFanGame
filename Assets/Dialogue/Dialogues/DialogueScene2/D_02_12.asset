@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D_02_12
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 6b1eb9d85a340e442b8d07842f630652, type: 2}
+  dialogue:
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Like lambs to slaughter - men and women, the elderly and the young. Those
+      not killed by the flames were mercilessly cut down by the undead.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Reaching the village, with Kiyohime at your back, you break into another
+      sprint, just in time to cut an undead soldier about to bring its weapon down
+      on a helpless man.
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Run! Get out of here!"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The man doesn't stop to thank you, instead following your command and running
+      for his life.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You turn back to the rest of the undead and noticed they all stopped their
+      massacre.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: 'They were all unmoving.
+
+      They were all focused on you.'
+  - actor: {fileID: 0}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: A figure clad in black walked out from the crowd of undead soldiers.
+  - actor: {fileID: 0}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: It was a woman in military garb, with a ceremonial headpiece. Her hair
+      long, slick, and black, and you swear her crimson eyes shone in the dark.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: On her hips was a sheathed blade, and in her hand was a large wooden arquebus.
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"And what do we have here? More imperialist dogs come to lose another
+      battle?"'

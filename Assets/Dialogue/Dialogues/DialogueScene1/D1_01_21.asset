@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_21
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 58dcbb0f9925cd54cbceac00863236bf, type: 2}
+  dialogue:
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 21300000, guid: 5b982fc69c499c944aedb40bbe4a6fd7, type: 3}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You follow Olga Marie's pace as you both make your way to the magical research
+      department.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Like your time with Isaak, people made way as the two of you walked by.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: But rather than doing it out of respect, people seemed to hurry out of
+      Olga Marie's way out of *fear*.
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Nice of people to make way for us, huh?"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You try to make conversation, but Olga Marie replied with a simple "hmm."
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 21300000, guid: 9b6c80b73caa5be4899f509cb5edb8dc, type: 3}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: After a bit more walking, you both arrive at magical research.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: It was more akin to a library than a center for research.
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"When I heard magical research, I expected... I don''t know, shelves full
+      of mysterious materials or whatever."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"That''s only in the labs, which are further in. But we''re not heading
+      there right now."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"We''re not?"'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"We have a summoning room in place for summoing Servants. We''ll get you
+      equipped there."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Can I at least ask what a Servant is now?"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Olga Marie pinches the bridge of her nose, groaning at your question.
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...Sorry."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"No, it''s fine."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Do you remember the comment grandfather made about heroes? And Da Vinci
+      saying she''s an imperfect image?"'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Yeah?"'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Heroic Spirits are, for all intents and purposes, impossible to summon.
+      You''d need an authority on a planetary-level to bring one to the material
+      world."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...But we can *cheat*. If we can''t summon an entire hero, how about
+      just a piece of one?"'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"If we provide a physical body to act as a vessel, and enough mana to
+      anchor the spirit, we can materialize that ''image'' of a hero."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"The vessel, containting the image of a hero, is known as a Servant. This
+      is what we did to summon Da Vinci as head of engineering."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Unfortunately, there are downsides - we need an enormous amount of energy
+      to create the Servant."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Afterwards, the Servant needs an upkeep of magical energy to keep themselves
+      anchored to our world."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"But for your Servant, we are doing things a little differently."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"It''s an... ''experiment'' I''ve had the honour of working on."'

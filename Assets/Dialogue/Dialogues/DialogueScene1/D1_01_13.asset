@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_13
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 2565a3bb296d8ae44b5090be7e824ba4, type: 2}
+  dialogue:
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Whoa, whoa, whoa, slow down. You mean magic is real?"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: 'You cut Olga Marie off.
+
+      Since you got here, everything has been
+      so hard to believe.'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Not magic, magecraft."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Olga Marie shoots a glance at Isaak.
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Fish out of water."'
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Yes, John. Magecraft is very much real. It is something we study here
+      at Chaldea."'
+  - actor: {fileID: 11400000, guid: 6f03903b3c7334a47964c9f928ed0a27, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"To help you understand Marie''s blunt explanation, magecraft has existed
+      since history even begun."'
+  - actor: {fileID: 11400000, guid: 6f03903b3c7334a47964c9f928ed0a27, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Practitioners of magecraft are known as mages."'
+  - actor: {fileID: 11400000, guid: 6f03903b3c7334a47964c9f928ed0a27, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Thanks to the work of those mages, magecraft has remained hidden from
+      the general populace since its inception."'
+  - actor: {fileID: 11400000, guid: 6f03903b3c7334a47964c9f928ed0a27, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"In all honesty, we would''ve been more surprised if you had heard about
+      magecraft than not."'

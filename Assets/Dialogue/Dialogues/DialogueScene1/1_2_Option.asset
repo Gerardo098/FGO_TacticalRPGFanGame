@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: 1_2_Option
+  m_EditorClassIdentifier: 
+  optionText: '"An underground bunker?"'
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 22ca9fb92622ec749b9233166c3f0dae, type: 2}
+  dialogue:
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Where are we exactly?"'
+  - actor: {fileID: 11400000, guid: 3b43068d7694fd24daa3c2753214f3ed, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"This would be the company''s headquarters, built to house the company''s
+      main facilities."'
+  - actor: {fileID: 11400000, guid: 3b43068d7694fd24daa3c2753214f3ed, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...But that''s all I''m allowed to say; any more than that is confidential
+      information."'
+  - actor: {fileID: 11400000, guid: 3b43068d7694fd24daa3c2753214f3ed, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I promise you that the interviewers will be able to answer your questions.
+      Now, Mr. Thomson, please follow me."'

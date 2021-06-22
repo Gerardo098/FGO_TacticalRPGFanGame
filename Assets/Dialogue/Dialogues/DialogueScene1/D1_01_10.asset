@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_10
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: f53c1e29205fa6d448b4845225f9dacf, type: 2}
+  dialogue:
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Ladies, I present to you Chaldea''s new ''Master Candidate''!"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The eccentrically-dressed woman and Romani clapped at the announcement.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The young woman, however, stared at you inquisitively for a couple seconds,
+      before speaking.
+  - actor: {fileID: 11400000, guid: 0eb256afddd29ee458ed596e686fb39d, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Grandfather."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"What''s wrong, Marie?"'
+  - actor: {fileID: 11400000, guid: 0eb256afddd29ee458ed596e686fb39d, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Is this really the ''Master'' you''ve decided to recruit? He looks like
+      a fish out of water."'
+  - actor: {fileID: 11400000, guid: 50a010125e7b43747a378d4ad44be968, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Don''t worry too much, Marie. If the Director thought him fit, then he
+      is definetly the correct choice."'
+  - actor: {fileID: 11400000, guid: 0eb256afddd29ee458ed596e686fb39d, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I just think the mages I proposed in my report would''ve been a far superior
+      choice. All of them high-ranking nobles of the Clock Tower."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Marie, I appreciate the effort you put into recruitment, but you know
+      how I feel about the Clock Tower."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Last thing I want is them getting their dirty fingers all over our treasures."'

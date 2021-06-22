@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e1f7c1d353c9d446876752109c008cb, type: 3}
+  m_Name: SpellLightning
+  m_EditorClassIdentifier: Assembly-CSharp::AltElementalAoE
+  Name: Lightning
+  rank: 0
+  targetType: 0
+  HitRoll: 0
+  tags:
+  - Lightning
+  - Wind
+  - Attack
+  - AOE
+  damageDealing: 1
+  HasEffect: 0
+  spellEffect: {fileID: 0}

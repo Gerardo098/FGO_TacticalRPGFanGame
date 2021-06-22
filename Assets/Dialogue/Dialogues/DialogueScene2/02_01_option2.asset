@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: 02_01_option2
+  m_EditorClassIdentifier: 
+  optionText: '"Honestly not as bad as I thought."'
+  sequence:
+  - {fileID: 11400000, guid: 36a82f00d81610f49a83955a173afeaf, type: 2}
+  dialogue:
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Honestly, it felt natural. Like, all I feel is like I''ve been doing
+      exercise."'
+  - actor: {fileID: 11400000, guid: 8345a30b8e24fd94c862b7a75b0f3f4d, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Sounds good. Honestly, we didn''t expect your body to accept spirit superimposition
+      this well without specialized therapy."'
+  - actor: {fileID: 11400000, guid: 8345a30b8e24fd94c862b7a75b0f3f4d, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"But that''s no excuse to go pushing yourself. If you feel anything wrong,
+      ease up on drawing your Servant''s power; don''t want you to burn yourself
+      out for no reason."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Will do."'

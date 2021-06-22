@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D_02_15
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 1
+  sequence: []
+  dialogue:
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The woman sighs.
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"It''s always a pity to see good talent get wasted like this."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: A number of aquebuses materialize upright in the area around the woman.
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"At the very least, I can give you a proper, honorable death and kill
+      you myself."'
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"You''ll make a fine undead after that, though. So no loss on my part."'
+  - actor: {fileID: 11400000, guid: 8345a30b8e24fd94c862b7a75b0f3f4d, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"John, I don''t know what you did but I feel a large gathering of magical
+      energy on your location."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The undead soldiers around the woman begin shaking restlessly, like dogs
+      on a chain.
+  - actor: {fileID: 11400000, guid: ff9a1584b5f8a604ba27831f2fe25137, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I''ll go easy on you. Don''t want to have to patch either of you too
+      much that we can''t use either of you afterwards."'

@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_02
+  m_EditorClassIdentifier: 
+  optionText: Follow the Guard.
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 1fefdad7a21e82342a1be0e18e1b6b6e, type: 2}
+  dialogue:
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You walked behind the guard through the bunker's halls. Like the building
+      above, you caught sight of many armed security guards and people in labcoats.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You also noticed the amount of screens. Not only in the rooms you got to
+      peek into, but in the hallways as well.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The majority of them, especially the ones in the hallways, displayed Chaldea's
+      logo followed by some caption such as "Humanity First" or "For the Glory of
+      Mankind".
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: As you both walked, the guard held his finger to his earpiece, nodded,
+      and turned to you.
+  - actor: {fileID: 11400000, guid: 3b43068d7694fd24daa3c2753214f3ed, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"It appears the interviewers are running a bit late. In the meantime,
+      they would like you to wait in one of the break rooms until you''re called."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The guard led you to a side room. It was a stereotypical employee break
+      room, with plain tables, a coffee machine, and a fridge.
+  - actor: {fileID: 11400000, guid: 3b43068d7694fd24daa3c2753214f3ed, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Once again nodding in response to a message from his earpiece, the guard
+      spoke.
+  - actor: {fileID: 11400000, guid: 3b43068d7694fd24daa3c2753214f3ed, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I will come and pick you up when they''re ready to have you."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The guard gave you a quick salute, and left, leaving you alone in the break
+      room.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: It was a run-of-the-mill employee break room, featuring a refridgerator,
+      microwave, coffee machine, and plenty of tables and chairs.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: With really nothing to do but wait, you sit down at one of the tables and
+      look at your phone.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: No signal. Though that's to be expected, you are several meters underground.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You try to connect to one of the wifi signals your phone picks up. However,
+      the instant your phone shows it's connected, the signal is immediately lost.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Looking around, you realize something - you didn't notice it before, but
+      there are a *lot* of security cameras in this place.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The break room alone has 3 of them, each positioned throughout the ceiling
+      in a way that leaves little to no blindspots.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: There's also a large LCD screen on the wall, displaying more of Chaldea's
+      promotional messages.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Chaldea Security Organization - In Defense of Human Order."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: As you're examing your surroundings, you're caught off guard as someone
+      walks into the room.
+  - actor: {fileID: 0}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: He was a man in his mid- to late-50s, with platinum-blond hair, a short
+      mustache, and dark, golden eyes. He wore a large, dark coat over a tidy suit.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The man walked up to your table, looked at you inquisitively, and spoke.
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Is this seat taken?"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The man asked, putting his hand on the chair directly across from yours.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Slightly taken aback, you respond with a "no". The man sits down.
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Are you the new hire we''re expecting today?"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Yes sir," you say. "Or, I hope I am."'
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The man chuckles.
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"You''re the first new face we''ve seen down here in months," he says
+      as he draws a cigarette box from his jacket. "First one I''ve seen, anyway."'
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: As the man searched through his pockets, he asks, "So why're you in the
+      break room? Something happen with the interview?"
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You nod. "I believe so, the guard that I was following brought me here
+      and told me to wait until they're ready."
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"That makes sense. The managers in charge of the interviews are very busy
+      people."'
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The man, now with a lighter in hand, lights a cigarette and inhales, blowing
+      a small puff towards the ceiling.
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Ah, my apologies. Smoking is allowed in this break room, but we usually
+      prefer to ask others if it won''t bother them."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Oh, It''s no problem."'
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Thank you, young man."'
+  - actor: {fileID: 11400000, guid: ed349833e84a12e41a1f1be4724dfc9c, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"By the way, what do you think about working here? In Chaldea?"'

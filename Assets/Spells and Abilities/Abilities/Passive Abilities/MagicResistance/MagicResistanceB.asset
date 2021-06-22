@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ea8a7891e5c6d4ebef9f20e0128ab9, type: 3}
+  m_Name: MagicResistanceB
+  m_EditorClassIdentifier: 
+  AbilityName: Magic Resistance
+  CurrentRank: 4
+  range: 0
+  tags:
+  - Passive
+  triggers: []
+  onEquip: {fileID: 0}
+  onUnequip: {fileID: 0}
+  roundStart: {fileID: 0}
+  roundEnd: {fileID: 0}
+  turnStart: {fileID: 0}
+  turnEnd: {fileID: 0}
+  onAttackSource: {fileID: 0}
+  onAttackTarget: {fileID: 11400000, guid: b8cb0448b565d2b49bd142af31e99b20, type: 2}
+  onHitSource: {fileID: 0}
+  onHitTarget: {fileID: 0}
+  onDamageSource: {fileID: 0}
+  onDamageTarget: {fileID: 0}

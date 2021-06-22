@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 582f9eec631fb33448afba4355d35d31, type: 3}
+  m_Name: ManaBurstFlameA
+  m_EditorClassIdentifier: 
+  AbilityName: Mana Burst (Flame)
+  OriginalRank: 5
+  range: 0
+  tags:
+  - Magecraft
+  - Fire
+  needTarget: 0
+  targetType: 2
+  maxUses: 1
+  actionType: 0
+  mbFlame: {fileID: 0}

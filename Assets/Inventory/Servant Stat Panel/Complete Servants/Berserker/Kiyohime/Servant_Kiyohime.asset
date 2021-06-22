@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbcc6706fd76a124483f4b1bee625027, type: 3}
+  m_Name: Servant_Kiyohime
+  m_EditorClassIdentifier: 
+  Name: Kiyohime
+  rank: 6
+  tags:
+  - Berserker
+  - Chaotic
+  - Draconic
+  - Evil
+  - Hero
+  - Mage
+  - Terra
+  stats: {fileID: 11400000, guid: 8b7d40462cf970143b5f1f9782e72cb6, type: 2}
+  servantGear: {fileID: 11400000, guid: 44bd987002fd354439e7a76f244b6429, type: 2}

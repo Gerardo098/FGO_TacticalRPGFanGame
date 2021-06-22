@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_09
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 1f10010e52e6fa847860966dc4367a46, type: 2}
+  dialogue:
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You follow Isaak and Romani down Chaldea's white halls.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: This time, all other staff clear the way as your group walks by.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Some guards salute, and some robed individuals even bow as Isaak walks
+      by.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Finally, the three of you arrive at a pair of large wooden doors, beside
+      of which there is a golden plaque reading "Director's Office".
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 21300000, guid: 6748527af59ea6b4aa9389062389e046, type: 3}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The humility of the office, despite the rest of the facility, strikes you
+      as you first walk in.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: There aren't many expensive decorations, only shelves with books and awards,
+      and a potted plant in the corner.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: There are couches in the center, before Isaak's desk. On these couches,
+      are a pair of individuals who stand upon your group's entry.
+  - actor: {fileID: 11400000, guid: 0eb256afddd29ee458ed596e686fb39d, type: 2}
+    Narrator: 1
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: One was a young woman wearing expensive clothes. She had long, wavy, platinum
+      hair with a single braid on the side, and golden eyes.
+  - actor: {fileID: 11400000, guid: 50a010125e7b43747a378d4ad44be968, type: 2}
+    Narrator: 1
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The second was a beautiful woman in a very eccentric outfit; it was very
+      colourful, with a large gauntlet like arm holding a glowing staff.
+  - actor: {fileID: 11400000, guid: 50a010125e7b43747a378d4ad44be968, type: 2}
+    Narrator: 1
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: She had a mechanical bird perched on her shoulder. From the way it moved
+      idly, you would've thought it was a real bird.

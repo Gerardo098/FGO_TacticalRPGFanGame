@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_22
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 168adac04754a6048bfabd866b47d5fb, type: 2}
+  dialogue:
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"How will my Servant be different?"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 21300000, guid: fdb9b3a2315962d409b51646edd07c92, type: 3}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The rooms change from a library to more of a research lab the further you
+      walk into the magical research department.
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"In case you''re wondering, this is our collection of grimoires. One of
+      the largest in the world."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Olga Marie looks very proud of herself as she says that.
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"But to answer your question, *you* will serve as the physical vessel."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Wait, so I''m going to become a hero?"'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Not exactly. We''ve dubbed the experiment ''servant superimposition'';
+      we weave the heroic spirit directly to yours."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"And rather than two minds sharing one body, it''ll be more like you can
+      assume the hero''s traits."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"We will provide the energy for the summoing and for most of the upkeep.
+      But in combat, you will have to handle the mana yourself."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Whoa, no one mentioned anything about combat yesterday."'
+  - actor: {fileID: 11400000, guid: 1a64d8679b9b53a4b9012aa54a0881c9, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"We have no idea what is happening in those singularities. That''s why
+      we''re picking a powerful hero so you can defend yourself."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...Fair enough."'

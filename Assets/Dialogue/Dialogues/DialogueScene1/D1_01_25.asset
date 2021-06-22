@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_25
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: a4f00c496cc97c546bc2c742e57e6c1a, type: 2}
+  dialogue:
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The flame stops midsentence, and its light dims a little.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 21300000, guid: 8001ed4860e2e824fb14007deed80060, type: 3}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You look around; a heavy, greyish fog begins filling the featureless abyss.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: As you examine the new feature, a being silently steps out from the fog.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: They appear to be tightly wrapped in white cloth, but you catch glimpses
+      of gold on their person.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Suddenly, you head is filled with a static-like noise. Soon, this noise
+      if followed by a deep voice.
+  - actor: {fileID: 11400000, guid: 041d7482b2b400a4986c746215124d03, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: I had dreams of the queen wonders that lived inside the hearts of love
+      and silent treatments of all the elderly that I knew were once whole.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You feel your body begin to tense up. You start breathing in deeper breaths.
+  - actor: {fileID: 11400000, guid: 041d7482b2b400a4986c746215124d03, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: I seek the revelations of all that the holy told to the unwise in the dreams
+      of cold embers in sunlight that fade across lakes of black blood and snakes
+      that eat the loaves of children from lamb trees in autumn.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Your heart starts beating faster as your body begins shooting adrenaline
+      throughout.
+  - actor: {fileID: 11400000, guid: 041d7482b2b400a4986c746215124d03, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Endless suffering is the woe of ignorant men who never lack to seek the
+      depth of their own hearts and only see the wealth of a poor world suffering
+      to flay its own back in knife wounds of silver and brutal gladness.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: ...And yet, your legs refuse to move.
+  - actor: {fileID: 11400000, guid: 041d7482b2b400a4986c746215124d03, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The nightmare is a dream to the nameless slug that wanders across minefield
+      and the remains of deer and kings.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: As the words spill into your mind, the being creeps slowly towards you.
+      Stumbling over itself on every step, like a child learning to walk.
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Suddenly, the small ball of fire moves between you and the being.
+  - actor: {fileID: 11400000, guid: 12e8242c74f38294fb4eb753fde3e39b, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...John...Run..."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Only then, did you body listen to you. You spun around and sprinted like
+      your life depended on it.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: As you ran, you saw light break into this dark abyss out of the corners
+      of your eyes. The further you ran, the more intense the light grew.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Until finally...

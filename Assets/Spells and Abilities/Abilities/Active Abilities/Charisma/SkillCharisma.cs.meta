@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cc8d91f744314aa48afaacb67dc45cf6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - charismaStatus: {fileID: 11400000, guid: 78d754ce06b8abc4b8aedbd7c6d6c9d0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

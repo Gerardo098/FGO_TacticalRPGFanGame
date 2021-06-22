@@ -1,0 +1,306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_27
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 42db5d2610699194dbab5399b96c499b, type: 2}
+  dialogue:
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 21300000, guid: 5b982fc69c499c944aedb40bbe4a6fd7, type: 3}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Following the summoing, you spent the next couple of days in Chaldea's
+      medical research department, where Romani gave you daily physical checkups.
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I''d say you''re back in tip-top shape, John. You have my permission
+      to retry the summoing ritual once more."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I''m just happy to be over drinking those mana potions for breakfast,
+      lunch, dinner, and in my sleep."'
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Ah ha, but they worked didn''t they? If it wasn''t for those, you would''ve
+      been bedridden for a week as your body attempted to recharge its mana."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Don''t threaten me with a good time."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: You speak some more with Romani, but the conversation is cut short by an
+      announcement on the intercom.
+  - actor: {fileID: 11400000, guid: a704c172e08526d48bb32153dfd5f592, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"All personnel to your stations; under the director''s orders, we will
+      commence with the first time-jump experiment in T-minus 10 minutes."'
+  - actor: {fileID: 11400000, guid: a704c172e08526d48bb32153dfd5f592, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Thank you for your support~!"'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Both you and Romani had stopped talking, instead looking at each other.
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Wait, a time-jump? Now? We aren''t even past the summoning part yet."'
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Don''t look at me, this is the first I''ve heard of it."'
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"But let''s not waste time here; let''s go to the command room to see
+      what''s really going on."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: 'You and Romani hastily walk down the halls. '
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Thanks to the time you've spent going from your room, to medical, and to
+      magical research, you've got a mental map of the facility now.
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 21300000, guid: eae44ae1a013ff646ac8e15724b9aa2c, type: 3}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Both of you arrive at the command center and swing the doors open, and
+      spot Isaak within. He quickly noticed the both of you.
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Lord Isaak, what is happening? Are we really going to attempt a time
+      jump now?"'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Good morning Romani, and good morning to you John."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"And yes, I specifically ordered to attempt a time jump experiment today.
+      Time is of the essence."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"But, director, I don''t have my Servant yet."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Do not worry, John. Of course, we won''t be sending you in empty handed."'
+  - actor: {fileID: 0}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Isaak motions to one of the nearby security guards, who runs up to the
+      three of you.
+  - actor: {fileID: 11400000, guid: 3b43068d7694fd24daa3c2753214f3ed, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Yes, director?"'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Are there any firearms left in the security vault that no one''s using?
+      We''ll be needing a pistol at the very least."'
+  - actor: {fileID: 11400000, guid: 3b43068d7694fd24daa3c2753214f3ed, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"No worries, director, I have a handgun on me right here. Safety on."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Atta boy."'
+  - actor: {fileID: 0}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: The guard draws a small handgun, as well as a couple extra magazines, which
+      he hands to Isaak.
+  - actor: {fileID: 11400000, guid: 3b43068d7694fd24daa3c2753214f3ed, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"The safety is this small switch right here. This switch here is to release
+      the mag."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"That''s all well and good, but I''ve never fired a gun before, let alone
+      held one."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"There''s always a first time for everything. Oh, we also have a small
+      backpack with things you''ll find useful."'
+  - actor: {fileID: 11400000, guid: 6f03903b3c7334a47964c9f928ed0a27, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Director, the time-jump sequence is ready, awaiting your command."'

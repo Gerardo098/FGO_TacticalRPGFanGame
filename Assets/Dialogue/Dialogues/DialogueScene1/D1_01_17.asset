@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4125e41507de8ad40baa75593ae6fe1d, type: 3}
+  m_Name: D1_01_17
+  m_EditorClassIdentifier: 
+  optionText: 
+  nextScene: 0
+  sequence:
+  - {fileID: 11400000, guid: 34dc9319e3c277b42a1fadb994e307a6, type: 2}
+  dialogue:
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...I''ll do it."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 1
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Isaak stands up from his seat behind his desk, and bows.
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 2
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"...Thank you, John."'
+  - actor: {fileID: 11400000, guid: 6f03903b3c7334a47964c9f928ed0a27, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 1
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Know that we will all support you from behind the scenes. Chaldea is
+      the world leader in technology and magecraft research, after all."'
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"We will take care of you, physically and mentally, as well as provide
+      you with all the information you need to achieve this."'
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 1
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: Romani looks at his watch.
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Ah, but it''s already this late. John, we''ve also prepared lodgings
+      for you in the facility, courtesy of the director."'
+  - actor: {fileID: 11400000, guid: 1710078e8aeab7c4c95a4adea411a27f, type: 2}
+    Narrator: 0
+    PortraitPosition: 1
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I will admit we could have gone harder on the dorm, but we will find
+      you anything you''re missing."'
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"In fact, I believe your luggage from your trip has been delivered there
+      already."'
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"I can lead you to your room then, if you''d like."'
+  - actor: {fileID: 11400000, guid: f01954c4a89cc0d41ae4823d2744271a, type: 2}
+    Narrator: 0
+    PortraitPosition: 0
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"That''d be great, I... I could use a bit of a rest."'
+  - actor: {fileID: 11400000, guid: e7ba0e0e2ed695d4c90854c309f1493d, type: 2}
+    Narrator: 0
+    PortraitPosition: 3
+    layer: 0
+    ErasePortraits: 0
+    background: {fileID: 0}
+    FadeBGIn: 0
+    EraseBG: 0
+    text: '"Completely understandable."'

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a901e2d0ef4b0be40a46de65422151ac, type: 3}
+  m_Name: Heal_A
+  m_EditorClassIdentifier: 
+  Name: Heal
+  rank: 5
+  targetType: 1
+  HitRoll: 0
+  tags:
+  - Healing
+  - Magecraft
+  damageDealing: 0
+  HasEffect: 1
+  spellEffect: {fileID: 11400000, guid: 4f66bd1445a5e2240ac83ecc7c2203a7, type: 2}

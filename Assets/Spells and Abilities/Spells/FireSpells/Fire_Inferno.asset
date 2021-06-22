@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d1c2f57b0a95cf4cb0b2dc9e18d9c71, type: 3}
+  m_Name: Fire_Inferno
+  m_EditorClassIdentifier: 
+  Name: Inferno
+  rank: 5
+  targetType: 3
+  HitRoll: 0
+  tags:
+  - Fire
+  damageDealing: 1
+  HasEffect: 1
+  spellEffect: {fileID: 11400000, guid: 47b063e1c30e4384bae561c7df5dc3e2, type: 2}

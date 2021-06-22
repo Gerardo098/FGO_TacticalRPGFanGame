@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eac4cd5ce18052f43845ef0c8135db21, type: 3}
+  m_Name: GaeBolgCurse
+  m_EditorClassIdentifier: 
+  EffectName: Cursed Barbs
+  tags: []
+  OriginalRank: 4
+  triggers: []
+  onEquip: {fileID: 0}
+  onUnequip: {fileID: 0}
+  roundStart: {fileID: 0}
+  roundEnd: {fileID: 0}
+  turnStart: {fileID: 0}
+  turnEnd: {fileID: 0}
+  onAttackSource: {fileID: 0}
+  onAttackTarget: {fileID: 0}
+  onHitSource: {fileID: 0}
+  onHitTarget: {fileID: 0}
+  onDamageSource: {fileID: 11400000, guid: dcdb38f973c7d77438716108bcc195e4, type: 2}
+  onDamageTarget: {fileID: 0}
